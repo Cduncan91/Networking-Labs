@@ -1,5 +1,5 @@
 # Networking-Labs
-Networking Labs. Cisco packet Tracer
+Basic Network Connect
 Steps I Took:
 1. Dragged 2 Laptops onto canvas
 2. Dragged 1 switch onto canvas
